@@ -104,12 +104,8 @@ int[] moreNumbers = [5, 6, 7];
   <ul>
     <li>📦 Requires .NET 8 SDK</li>
     <li>💻 Try it on <a href="https://dotnetfiddle.net/">.NET Fiddle</a> or in <a href="https://visualstudio.microsoft.com/">Visual Studio 2022+</a></li>
+    <li><a href="https://medium.com/@hadi.sharifzadeh1378/whats-new-in-c-12-deep-dive-into-the-most-useful-features-71ef9cabd4b8">Medium Link</a></li>
   </ul>
 
   <p>#CSharp12 #dotnet8 #cleanCode #modernCSharp #mediumDev</p>
 </article>
-"""
-
-html_path = "[/mnt/data/csharp12-medium-article.html](https://medium.com/@hadi.sharifzadeh1378/whats-new-in-c-12-deep-dive-into-the-most-useful-features-71ef9cabd4b8)"
-with open(html_path, "w", encoding="utf-8") as f:
-    f.write(html_content)
