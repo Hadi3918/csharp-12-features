@@ -110,8 +110,6 @@ int[] moreNumbers = [5, 6, 7];
 </article>
 """
 
-html_path = "/mnt/data/csharp12-medium-article.html"
+html_path = "[/mnt/data/csharp12-medium-article.html](https://medium.com/@hadi.sharifzadeh1378/whats-new-in-c-12-deep-dive-into-the-most-useful-features-71ef9cabd4b8)"
 with open(html_path, "w", encoding="utf-8") as f:
     f.write(html_content)
-
-html_path
