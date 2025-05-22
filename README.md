@@ -1,5 +1,5 @@
 <article>
-  <h1>🌟 {article_title}</h1>
+  <h1>🌟 What’s New in C# 12 — Deep Dive into the Most Useful Features</h1>
   <p><strong>C# 12</strong>, introduced with <strong>.NET 8</strong>, isn’t just a set of syntax tweaks — it brings real improvements that simplify your code, boost performance, and make the language more expressive.</p>
 
   <p>In this article, we’ll explore five key features of C# 12, with clear explanations and <strong>before-and-after examples</strong> so you can start using them effectively in your projects.</p>
@@ -47,7 +47,7 @@ void Authenticate(int userId) {{ /* ... */ }}
 </code></pre>
 
   <hr/>
-  <h2>🧺 4. Collection Expressions <em>(Preview)</em></h2>
+  <h2>🧺 4. Collection Expressions</h2>
   <h4>📌 Old way:</h4>
   <pre><code>var numbers = new List&lt;int&gt; {{ 1, 2, 3, 4 }};
 </code></pre>
